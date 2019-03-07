@@ -9,7 +9,7 @@ var session = require('express-session');
 var flash = require('connect-flash');
 var MongoStore = require('connect-mongo')(session);
 var pkg = require('./package');
-
+require('dotenv').config();
 // get the config file to load web information
 var config = require('./config/config');
 

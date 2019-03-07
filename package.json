@@ -9,11 +9,13 @@
   "dependencies": {
     "aws-sdk": "^2.416.0",
     "bcrypt": "^3.0.4",
+    "cloudinary": "^1.13.2",
     "connect-flash": "^0.1.1",
     "connect-mongo": "^2.0.3",
     "cookie-parser": "^1.4.4",
     "debug": "~2.6.9",
     "deep-extend": "^0.5.1",
+    "dotenv": "^6.2.0",
     "ejs": "~2.5.7",
     "express": "^4.16.4",
     "express-session": "^1.15.6",
