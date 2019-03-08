@@ -184,12 +184,12 @@
       <updated>1551938366163</updated>
       <workItem from="1551938368205" duration="14811000" />
       <workItem from="1552033600722" duration="2748000" />
-      <workItem from="1552036836155" duration="679000" />
+      <workItem from="1552036836155" duration="991000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18238000" />
+    <option name="totallyTimeSpent" value="18550000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="140" y="25" width="1400" height="1000" extended-state="0" />
@@ -217,6 +217,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/models/user.model.js">
