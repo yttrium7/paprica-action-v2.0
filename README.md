@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/yttrium7/paprica-action-v2.0/master/public/favicon.ico" alt="website logo" height=50 align=left>
-Paprica Action
+#Paprica Action
 ==============
 <img src=https://github.com/yttrium7/paprica-action-v2.0/blob/master/paprica-clips/paprica-clip-title.gif height=200>
 
