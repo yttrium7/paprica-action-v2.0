@@ -24,7 +24,7 @@
     "lodash": ">=4.17.13",
     "marked": "^0.3.19",
     "moment": "^2.24.0",
-    "mongoose": "^5.4.17",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "mpath": "^0.5.1",
     "serve-favicon": "^2.5.0",
