@@ -7,7 +7,7 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "aws-sdk": "^2.416.0",
+    "aws-sdk": "^2.814.0",
     "bcrypt": "^3.0.4",
     "cloudinary": "^1.13.2",
     "connect-flash": "^0.1.1",
