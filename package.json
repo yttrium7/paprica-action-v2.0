@@ -23,7 +23,7 @@
     "http-errors": "~1.6.2",
     "lodash": ">=4.17.13",
     "marked": "^0.3.19",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mongoose": "^5.4.17",
     "morgan": "^1.9.1",
     "mpath": "^0.5.1",
